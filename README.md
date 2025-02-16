@@ -15,19 +15,10 @@ Beyond my technical expertise, I enjoy **mentoring, teaching, and collaborating*
 ## ⚡ Tech Stack
 
 **Programming Languages & Tools:**  
-![Python](https://img.icons8.com/fluency/48/python.png)  
-![SQL](https://img.icons8.com/fluency/48/my-sql.png)  
-![Excel](https://img.icons8.com/color/48/ms-excel.png)  
-![Power BI](https://img.icons8.com/fluency/48/power-bi-2021.png)  
-![Tableau](https://img.icons8.com/color/48/tableau-software.png)  
-![AI](https://img.icons8.com/material-outlined/48/artificial-intelligence.png)  
+![Python](https://img.icons8.com/fluency/48/python.png)  ![SQL](https://img.icons8.com/fluency/48/my-sql.png)  ![Excel](https://img.icons8.com/color/48/ms-excel.png)  ![Power BI](https://img.icons8.com/fluency/48/power-bi-2021.png)  ![Tableau](https://img.icons8.com/color/48/tableau-software.png)  ![AI](https://img.icons8.com/material-outlined/48/artificial-intelligence.png)  
 
 **Frameworks & Libraries:**  
-![Pandas](https://img.icons8.com/color/48/pandas.png)  
-![NumPy](https://img.icons8.com/color/48/numpy.png)  
-![Matplotlib](https://img.icons8.com/color/48/combo-chart--v1.png)  
-![TensorFlow](https://img.icons8.com/color/48/tensorflow.png)  
-![Keras](https://img.icons8.com/material-outlined/48/keras.png)  
+![Pandas](https://img.icons8.com/color/48/pandas.png)  ![NumPy](https://img.icons8.com/color/48/numpy.png)  ![Matplotlib](https://img.icons8.com/color/48/combo-chart--v1.png)  ![TensorFlow](https://img.icons8.com/color/48/tensorflow.png)  ![Keras](https://img.icons8.com/material-outlined/48/keras.png)  
 
 **IDE & Tools:**  
 ![VS Code](https://img.icons8.com/color/48/visual-studio-code-2019.png)  
