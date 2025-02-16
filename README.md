@@ -1,23 +1,73 @@
-## Hi there 👋 It's me Mohammed Abdul wahab
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mohammed1hskjdn.mohammed1hskjdn" />
 
-AI Research & Development Intern @ Space Kidz India
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                               
-- 🌱 I’m currently learning Gen AI and AWS & Azure.
-- Engineering at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://www.highbrowtechnology.com/),
-- How to reach me 
-<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/#inbox) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/) 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohammed+Abdul+Wahab!;" />
+</h1>
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/fluency/48/python.png" alt="python"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/my-sql.png" alt="my-sql"/>" <img height="50" width="50" src="https://img.icons8.com/color/48/ms-excel.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>" <img height="50" width="50" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>  <img height="50" width="50" src="https://img.icons8.com/material-outlined/24/artificial-intelligence.png" /> <img height="50" width="50" src="https://img.icons8.com/material/24/learning.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/chatbot--v1.png" />
+<h3 align="center">A passionate Data Scientist & AI Researcher from India 🇮🇳</h3>
 
-# FrameWorks
+<br/>
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/pandas.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/numpy.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/combo-chart--v1.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/tensorflow.png"/> <img height="50" width="50" src="https://img.icons8.com/material-outlined/24/keras.png"/> 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/material-sharp/24/google-logo.png"/>
+<div align="center">
+ 
+ 🔭 I’m currently working on **AI Research & Development at Space Kidz India**
+ 
+ 🌱 I’m currently learning **Gen AI, AWS & Azure**
 
+⚡ Fun fact **The first AI program was written in 1951 by Christopher Strachey**
 
-![Mohammed GitHub stats](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
-![Mohammed ](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:abdulwahabm221@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/mohammedwahab" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://mohammed1hskjdn.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-[![Kaggle Stats] <br /> [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/mohammed1hskjdn) 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,sql,powerbi,tableau,excel,ml,ai,Nlp,Deep learning" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mohammed1hskjdn/mohammed1hskjdn/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=mohammed1hskjdn&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mohammed1hskjdn&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed1hskjdn&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
