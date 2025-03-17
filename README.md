@@ -1,12 +1,9 @@
 ### 👋 Hi there
 
-I'm **Mohammed Abdul Wahab**, a passionate **Data Scientist & AI Researcher** from **India 🇮🇳**. I specialize in **Machine Learning, Deep Learning, and Data Analysis**, leveraging AI to solve real-world problems.
-
----
-
+I'm **Mohammed Abdul Wahab**, As a Data Science student, I gained hands-on experience with data analysis tools such as Python and SQL, data 
+visualization platforms like Power BI and Tableau, and a variety of machine learning techniques. I also worked for a year 
+as an Associate at Indecomm Global Services. I am passionate about leveraging data to solve real-world problems and 
+create value for society and businesses.
 ## 🚀 Expertise
 
-I have experience in building AI-driven solutions for **healthcare, finance, and e-commerce**. My work focuses on **predictive modeling, NLP, computer vision, and big data analytics**. Currently, I’m working on **AI Research & Development at Space Kidz India** 🚀.
-
-Beyond my technical expertise, I enjoy **mentoring, teaching, and collaborating** with the AI community. I believe in **open-source contributions** and sharing knowledge to advance the field of artificial intelligence.
-
+I have experience in building AI-driven solutions for **healthcare, finance, and e-commerce**. My work focuses on **predictive modeling, Machine learning, NLP, Deeplearning, and analytics in power bi and tabelau **.
