@@ -8,33 +8,19 @@ I recently completed my M.Sc in Data Science and have hands-on experience in bui
 ## 🚀 Skills & Technologies  
 
 **Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white)  
 
 **Machine Learning & AI:**  
-![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-FF6F00?logo=ai&logoColor=white)  
-![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-8E44AD?logo=ai&logoColor=white)  
-![NLP](https://img.shields.io/badge/NLP-FF4088?logo=natural-language-processing&logoColor=white)  
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0A66C2?logo=deeplearning&logoColor=white)  
-![LLM](https://img.shields.io/badge/LLM-FF0000?logo=OpenAI&logoColor=white)  
-![RAG](https://img.shields.io/badge/RAG-1F425F?logo=knowledgebase&logoColor=white)  
-![AI Agents](https://img.shields.io/badge/AI%20Agents-FF1493?logo=robot&logoColor=white)  
+![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-FF6F00?logo=ai&logoColor=white) ![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-8E44AD?logo=ai&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-FF4088?logo=natural-language-processing&logoColor=white)  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0A66C2?logo=deeplearning&logoColor=white)  ![LLM](https://img.shields.io/badge/LLM-FF0000?logo=OpenAI&logoColor=white)  ![RAG](https://img.shields.io/badge/RAG-1F425F?logo=knowledgebase&logoColor=white) ![AI Agents](https://img.shields.io/badge/AI%20Agents-FF1493?logo=robot&logoColor=white)  
 
 **AI Tools:**  
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD700?logo=huggingface&logoColor=black)  
-![Langchain](https://img.shields.io/badge/LangChain-00B4D8?logo=langchain&logoColor=white)  
-![Langgraph](https://img.shields.io/badge/LangGraph-FF5733?logo=graph&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD700?logo=huggingface&logoColor=black) ![Langchain](https://img.shields.io/badge/LangChain-00B4D8?logo=langchain&logoColor=white) ![Langgraph](https://img.shields.io/badge/LangGraph-FF5733?logo=graph&logoColor=white)  
 
 **Databases:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)  
 
 **Data Visualization:**  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)  
 
 **Frameworks & Tools:**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
