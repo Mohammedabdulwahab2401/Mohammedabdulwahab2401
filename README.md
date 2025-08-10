@@ -5,6 +5,13 @@
 I recently completed my M.Sc in Data Science and have hands-on experience in building AI-powered applications, LLM-based systems, and data-driven solutions. My passion lies in using data to create real-world impact.  
 
 ---
+
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](http://www.linkedin.com/in/mohammed-abdul-wahab-6758151b6)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Mohammedabdulwahab2401)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle)](https://www.kaggle.com/mohammed1hskjdn)  
+📧 **Email:** abdulwahabm221@gmail.com  
+
 ## 🚀 Skills & Technologies  
 
 **Languages:**  
