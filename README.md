@@ -18,6 +18,9 @@ I recently completed my M.Sc in Data Science and have hands-on experience in bui
 **Frameworks & Tools:**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) 
 
+### 📊 GeeksforGeeks Stats
+[![GFG Stats](https://gfg-practice-card.vercel.app/api/?user=abdulwahv30c)](https://auth.geeksforgeeks.org/user/abdulwahv30c/practice/)
+
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammedabdulwahab2401&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammedabdulwahab2401&layout=compact&theme=radical)  
